@@ -1,0 +1,49 @@
+*body  {
+
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Arial',sans-serif;
+}
+
+header {
+    background-color: cadetblue;
+}
+
+
+.navbar {
+
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 ;
+}
+
+.nav-list
+{
+    display: flex;
+    list-style: none;
+}
+
+.nav-list li {
+
+    margin: 0 15px;
+}
+
+.nav-list li a 
+{
+    text-decoration: none;
+}
+
+
+
+/* section semantic-tag  */
+
+.form-style2 {
+    
+    float: left;
+    margin-right: 0vh;
+    width: 1500px;
+    height: 500px;
+}
