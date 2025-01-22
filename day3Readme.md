@@ -18,3 +18,7 @@ Properties I learned in css :
 for paragraph i.e p
 
 word-spacing
+text-align
+color
+text-transform
+margin-top
