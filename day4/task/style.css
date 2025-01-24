@@ -134,3 +134,25 @@ nav ul li a:hover {
     width: 150px;
     font-size: 10px;
  }
+
+
+
+ .footer {
+    display: flex;
+    padding: 24px 122px;
+    justify-content: space-evenly   ;
+ }
+
+
+ .footer ul {
+    list-style: none;
+ }
+
+ .footer > div {
+    width: 230 px;
+ }
+
+
+footer .footer-rights {
+    text-align: center;
+ }
