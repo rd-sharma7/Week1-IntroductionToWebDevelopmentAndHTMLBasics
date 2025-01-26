@@ -1,0 +1,1 @@
+1. span tag also used to genral write and uses a inheritence like .containe button 
